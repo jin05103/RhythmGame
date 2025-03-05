@@ -1,0 +1,334 @@
+{
+  "songInfo": {
+    "title": "Uptown Funk",
+    "bpm": 115,
+    "lineCount": 6,
+    "duration": 16.7,
+    "tag": "example",
+    "path": "Songs/Uptown Funk.mp3"
+  },
+  "gameStats": {
+    "maxCombo": 38,
+    "maxPercentage": 88.1579
+  },
+  "notes": {
+    "3": [
+      {
+        "line": 1,
+        "duration": 0.1
+      }
+    ],
+    "6": [
+      {
+        "line": 0,
+        "duration": 0.1
+      }
+    ],
+    "14": [
+      {
+        "line": 0,
+        "duration": 0.1
+      }
+    ],
+    "17": [
+      {
+        "line": 1,
+        "duration": 0.1
+      }
+    ],
+    "19": [
+      {
+        "line": 2,
+        "duration": 0.1
+      }
+    ],
+    "22": [
+      {
+        "line": 0,
+        "duration": 0.1
+      },
+      {
+        "line": 1,
+        "duration": 0.1
+      }
+    ],
+    "25": [
+      {
+        "line": 1,
+        "duration": 0.1
+      }
+    ],
+    "27": [
+      {
+        "line": 2,
+        "duration": 0.1
+      }
+    ],
+    "30": [
+      {
+        "line": 0,
+        "duration": 0.1
+      }
+    ],
+    "33": [
+      {
+        "line": 1,
+        "duration": 0.1
+      }
+    ],
+    "35": [
+      {
+        "line": 2,
+        "duration": 0.1
+      }
+    ],
+    "38": [
+      {
+        "line": 0,
+        "duration": 0.1
+      }
+    ],
+    "46": [
+      {
+        "line": 0,
+        "duration": 0.1
+      }
+    ],
+    "49": [
+      {
+        "line": 1,
+        "duration": 0.1
+      }
+    ],
+    "51": [
+      {
+        "line": 2,
+        "duration": 0.1
+      }
+    ],
+    "54": [
+      {
+        "line": 0,
+        "duration": 0.1
+      },
+      {
+        "line": 1,
+        "duration": 0.1
+      }
+    ],
+    "57": [
+      {
+        "line": 1,
+        "duration": 0.1
+      }
+    ],
+    "59": [
+      {
+        "line": 2,
+        "duration": 0.1
+      }
+    ],
+    "62": [
+      {
+        "line": 0,
+        "duration": 0.1
+      }
+    ],
+    "65": [
+      {
+        "line": 1,
+        "duration": 0.1
+      }
+    ],
+    "67": [
+      {
+        "line": 2,
+        "duration": 0.1
+      },
+      {
+        "line": 3,
+        "duration": 0.1
+      }
+    ],
+    "70": [
+      {
+        "line": 0,
+        "duration": 0.1
+      },
+      {
+        "line": 4,
+        "duration": 0.1
+      }
+    ],
+    "75": [
+      {
+        "line": 3,
+        "duration": 0.1
+      }
+    ],
+    "78": [
+      {
+        "line": 0,
+        "duration": 0.1
+      },
+      {
+        "line": 4,
+        "duration": 0.1
+      }
+    ],
+    "81": [
+      {
+        "line": 1,
+        "duration": 0.1
+      }
+    ],
+    "83": [
+      {
+        "line": 2,
+        "duration": 0.1
+      },
+      {
+        "line": 3,
+        "duration": 0.1
+      }
+    ],
+    "86": [
+      {
+        "line": 0,
+        "duration": 0.1
+      },
+      {
+        "line": 1,
+        "duration": 0.1
+      },
+      {
+        "line": 4,
+        "duration": 0.1
+      }
+    ],
+    "89": [
+      {
+        "line": 1,
+        "duration": 0.1
+      },
+      {
+        "line": 3,
+        "duration": 0.1
+      }
+    ],
+    "91": [
+      {
+        "line": 2,
+        "duration": 0.1
+      }
+    ],
+    "93": [
+      {
+        "line": 3,
+        "duration": 0.1
+      }
+    ],
+    "94": [
+      {
+        "line": 0,
+        "duration": 0.1
+      }
+    ],
+    "97": [
+      {
+        "line": 1,
+        "duration": 0.1
+      }
+    ],
+    "99": [
+      {
+        "line": 2,
+        "duration": 0.1
+      },
+      {
+        "line": 3,
+        "duration": 0.1
+      }
+    ],
+    "102": [
+      {
+        "line": 0,
+        "duration": 0.1
+      },
+      {
+        "line": 4,
+        "duration": 0.1
+      }
+    ],
+    "107": [
+      {
+        "line": 3,
+        "duration": 0.1
+      }
+    ],
+    "110": [
+      {
+        "line": 0,
+        "duration": 0.1
+      },
+      {
+        "line": 4,
+        "duration": 0.1
+      }
+    ],
+    "113": [
+      {
+        "line": 1,
+        "duration": 0.1
+      }
+    ],
+    "115": [
+      {
+        "line": 2,
+        "duration": 0.1
+      },
+      {
+        "line": 3,
+        "duration": 0.1
+      },
+      {
+        "line": 5,
+        "duration": 1.6
+      }
+    ],
+    "118": [
+      {
+        "line": 0,
+        "duration": 0.1
+      },
+      {
+        "line": 1,
+        "duration": 0.1
+      },
+      {
+        "line": 4,
+        "duration": 0.1
+      }
+    ],
+    "121": [
+      {
+        "line": 1,
+        "duration": 0.1
+      },
+      {
+        "line": 3,
+        "duration": 0.1
+      }
+    ],
+    "123": [
+      {
+        "line": 1,
+        "duration": 0.1
+      },
+      {
+        "line": 2,
+        "duration": 0.1
+      }
+    ]
+  }
+}

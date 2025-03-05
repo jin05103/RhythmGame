@@ -1,0 +1,76 @@
+{
+  "songInfo": {
+    "title": "Example Song1",
+    "bpm": 120,
+    "lineCount": 4,
+    "duration": 2.3,
+    "tag": "example",
+    "path": "Songs/abc.mp3"
+  },
+  "gameStats": {
+    "maxCombo": 10,
+    "maxPercentage": 100.0
+  },
+  "notes": {
+    "0": [
+      {
+        "line": 0,
+        "duration": 0.1
+      }
+    ],
+    "1": [
+      {
+        "line": 0,
+        "duration": 0.1
+      }
+    ],
+    "4": [
+      {
+        "line": 0,
+        "duration": 0.1
+      }
+    ],
+    "6": [
+      {
+        "line": 1,
+        "duration": 0.1
+      }
+    ],
+    "8": [
+      {
+        "line": 0,
+        "duration": 0.1
+      }
+    ],
+    "10": [
+      {
+        "line": 1,
+        "duration": 0.1
+      }
+    ],
+    "12": [
+      {
+        "line": 2,
+        "duration": 0.1
+      }
+    ],
+    "14": [
+      {
+        "line": 1,
+        "duration": 0.1
+      }
+    ],
+    "16": [
+      {
+        "line": 2,
+        "duration": 0.1
+      }
+    ],
+    "18": [
+      {
+        "line": 1,
+        "duration": 0.1
+      }
+    ]
+  }
+}
